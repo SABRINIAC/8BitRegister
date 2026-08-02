@@ -23,4 +23,7 @@ This equates to this BOM:
 
 Cost:
 - PCBs + Shipping = $38.69
-- 1500x 2n2222 NPN Transistors from LCSC = $18 before shipping
+- 1700x 2n2222 NPN Transistors from Aliepxress + Free Shipping = $26.69 (https://www.aliexpress.us/item/3256806831821651.html)
+- 1k 0603 SMD Resistors, $0 I already have a bunch from this order (https://www.aliexpress.us/item/3256805937811409.html) and ones like it
+- Right angle male pin headers I have already
+
