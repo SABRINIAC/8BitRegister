@@ -4,6 +4,9 @@ This project creates the PCBs for my CPU registers and the tristate buffers to I
 It is for my '60s inspired computer im making base don the Intel 8080. At the time of writing this I have RAM + it's clock done and the ALU Modules done. After I get the registers + buffers I'll only have to make a motherboard and an opcode decoder/microcode
 
 <img width="613" height="571" alt="image" src="https://github.com/user-attachments/assets/6b90ea68-0362-4434-b3ef-51921e532d38" />
+<img width="1169" height="816" alt="image" src="https://github.com/user-attachments/assets/539c44fa-c0fe-4d44-be53-ded57a7caebd" />
+<img width="1078" height="613" alt="image" src="https://github.com/user-attachments/assets/d52738cd-6331-4200-a8a6-7528cd3a0767" />
+
 
 How to assemble? Just solder on all of the 2N2222 Transistors (or other NPN transitors) and 0603 1kohm resistors
 
