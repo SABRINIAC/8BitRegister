@@ -12,10 +12,10 @@ How to assemble? Just solder on all of the 2N2222 Transistors (or other NPN tran
 
 BOM:
 
-| Part Name | Count |
-|-----------|-------|
-| Register PCBs | 18 |
-| Tri-State Buffer PCBs | 26 |
-| 2N2222 NPN Transistors | 1406 |
-| 0603 SMD 1kohm Resistors | 2684 |
-| Pin headers | Any combination of 1xN Right Angle Male Pin Headers to make up 1x854 |
+| Part Name | Count | Link |
+|-----------|-------|------|
+| Register PCBs | 18 | From JLCPCB |
+| Tri-State Buffer PCBs | 26 | From JLCPCB |
+| 2N2222 NPN Transistors | 1406 | https://www.aliexpress.us/item/3256806831821651.html |
+| 0603 SMD 1kohm Resistors | 2684 | https://www.aliexpress.us/item/3256805937811409.html |
+| Pin headers | Any combination of 1xN Right Angle Male Pin Headers to make up 1x854 | I already have them but something like this: https://www.aliexpress.us/item/3256803319359683.html |
