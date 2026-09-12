@@ -1,7 +1,11 @@
 # CPU Registers & Tristate Buffers for the SABRINIAC
 This project creates the PCBs for my CPU registers and the tristate buffers to I/O with them.
 
-It is for my '60s inspired computer im making base don the Intel 8080. At the time of writing this I have RAM + it's clock done and the ALU Modules done. After I get the registers + buffers I'll only have to make a motherboard and an opcode decoder/microcode
+It is for my '60s inspired computer im making base don the Intel 8080. At the time of writing this I have RAM + it's clock done and the ALU Modules done. After I get the registers + buffers I'll only have to make a motherboard and an opcode decoder/microcode.
+
+The SABRINIAC is my '60s inspired, transistor based,, Intel 8008 Architecture computer. Every part of it from the instruction decoder to the alu will be built using purely transistors.
+
+You can check out the other repos for the SABRINAIC's parts [here](https://github.com/orgs/SABRINIAC/repositories) or you can check out the ALU's repo which explains in more detail what the SABRINIAC is [here](https://github.com/SABRINIAC/ALU-Components)
 
 <img width="613" height="571" alt="image" src="https://github.com/user-attachments/assets/6b90ea68-0362-4434-b3ef-51921e532d38" />
 <img width="1169" height="816" alt="image" src="https://github.com/user-attachments/assets/539c44fa-c0fe-4d44-be53-ded57a7caebd" />
